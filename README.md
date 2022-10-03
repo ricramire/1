@@ -236,4 +236,15 @@ After you've run `git add` to add the files, commit and push your changes by typ
 ```
 $ git commit -m "Submitting Week 1 Day 1 exercise"
 $ git push origin main
-```
+```[output-part-1.txt](https://github.com/ricramire/1/files/9698354/output-part-1.txt)
+[01_create_directory.txt](https://github.com/ricramire/1/files/9698357/01_create_directory.txt)
+[02_create_directory_home.txt](https://github.com/ricramire/1/files/9698358/02_create_directory_home.txt)
+[03_change_directory.txt](https://github.com/ricramire/1/files/9698359/03_change_directory.txt)
+[04_change_directory_up.txt](https://github.com/ricramire/1/files/9698360/04_change_directory_up.txt)
+[05_change_directory_root.txt](https://github.com/ricramire/1/files/9698361/05_change_directory_root.txt)
+[06_remove_directory.txt](https://github.com/ricramire/1/files/9698362/06_remove_directory.txt)
+[07_list_directory_contents.txt](https://github.com/ricramire/1/files/9698363/07_list_directory_contents.txt)
+[08_list_subdirectory_contents.txt](https://github.com/ricramire/1/files/9698364/08_list_subdirectory_contents.txt)
+[09_copy_file.txt](https://github.com/ricramire/1/files/9698365/09_copy_file.txt)
+[10_move_file.txt](https://github.com/ricramire/1/files/9698366/10_move_file.txt)
+[11_rename_file.txt](https://github.com/ricramire/1/files/9698367/11_rename_file.txt)
